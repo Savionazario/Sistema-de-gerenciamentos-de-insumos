@@ -1,2 +1,2 @@
 # Sistema-de-gerenciamentos-de-insumos
-Sistema que gerencia a distribuição de insumos para todos os estados do Brasil, podendo adicionar novos insumos ao estoque e distribui-los para os estados.
+System that manages the distribution of inputs to all states of Brazil, being able to add new inputs to the stock, and distribute them to the states.
